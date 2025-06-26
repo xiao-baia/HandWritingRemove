@@ -8,11 +8,11 @@
 
 ![HandWritingRemove](https://img.shields.io/badge/HandWritingRemove-Handwriting%20Removal%20Tool-red) ![Python](https://img.shields.io/badge/Python-3.8+-green) ![Flask](https://img.shields.io/badge/Flask-2.0+-orange) ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-blue) ![PaddlePaddle](https://img.shields.io/badge/PaddlePaddle-2.0+-yellow)
 
-**Deep Learning-based Intelligent Handwriting Removal System**
+**A Simple Handwriting Removal Tool**
 
 ## 📖 Project Introduction
 
-A Simple Handwriting Removal Tool is an intelligent handwritten content removal tool based on deep learning technology, capable of automatically identifying and erasing handwritten text in images, making documents look cleaner and more professional. The system features the following core capabilities:
+A Simple Handwriting Removal Tool is an intelligent handwritten content removal tool based on deep learning technology, capable of automatically identifying and erasing handwritten text in images, making documents look cleaner and more professional. 
 
 ### Environment Installation
 

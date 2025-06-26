@@ -1,6 +1,6 @@
 简体中文 | [English](./Readme_en.md)
 
-# 一个普通的擦除手写体
+# 一个普通的擦除手写体项目
 
 <div align="center">
     <img src="images\HandWritingRemove_logo.svg" alt="logo" style="zoom:800%;" />
@@ -8,11 +8,11 @@
 
 ![HandWritingRemove](https://img.shields.io/badge/HandWritingRemove-手写体擦除工具-red) ![Python](https://img.shields.io/badge/Python-3.8+-green) ![Flask](https://img.shields.io/badge/Flask-2.0+-orange) ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-blue) ![PaddlePaddle](https://img.shields.io/badge/PaddlePaddle-2.0+-yellow)
 
-**基于深度学习的智能手写体擦除系统**
+**一个普通的擦除手写体项目**
 
 ## 📖 项目简介
 
-一个普通的擦除手写体是一个基于深度学习技术的智能手写内容移除工具，能够自动识别并擦除图片中的手写文字，让文档看起来更加整洁专业。系统具备以下核心能力：
+一个普通的擦除手写体是一个基于深度学习技术的智能手写内容移除工具，能够自动识别并擦除图片中的手写文字，让文档看起来更加整洁专业。
 
 ### 环境安装
 
